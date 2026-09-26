@@ -1,0 +1,6 @@
+{
+  "name": "Velvetique Beauty | Radiant Skin, Real Confidence",
+  "description": "Modern, premium skincare and beauty e-commerce store with clean ingredients, clinically proven formulas, and luxurious self-care rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
